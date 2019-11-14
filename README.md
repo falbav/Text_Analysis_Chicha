@@ -55,8 +55,10 @@ Finally, I wanted to quantify one dimension of the sentiment reflected on these 
 
 Overall, all my index using sentimental analysis in Spanish gave me very neutral results. Probably because some words and phrases are hard to categorize. So I created a new data base where I included a score for each word, in a range from [-1,1]. I found that modern songs are more "positive" than the old ones, probably reflecting less strugles that people did in the past. Of course, this is completly subjective, you can create your own weights as well, and run your own sentiment analysis. 
 
+
 You can find all the data sets, graphs and R code in this site.
-Use it to create your own version and have some fun. I hope this inspire you to use data to explore other social phenomena.
+Use it to create your own version and have some fun. 
+I hope this inspire you to use data to explore other social phenomena.
 If you find any error or have any interesting suggestion, please contact me. 
 
 
