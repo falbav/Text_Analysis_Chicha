@@ -1,7 +1,8 @@
 # Text_Analysis_Chicha
 By Fabiola M. Alba Vivar
 
-![Chicha](ChichaCartel.jpg)
+![Chacalon](Chacalon.jpg)
+
 I created a code in R that uses text and sentimental analysis to analyse one of my favorite playlist: Peruvian Psychedelic Chicha
 
 Recommended: Listen to the playlist while reading this: spotify:playlist:5owR7sSGZ0cCE8E5gsNW8x
@@ -17,3 +18,4 @@ https://youtu.be/6mZ3EY6-r2U
 
 
 
+New songs are 45 sec longer than old ones in average 
