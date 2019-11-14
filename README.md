@@ -7,7 +7,8 @@ Recommended: Listen to the playlist while reading this: spotify:playlist:5owR7sS
 
 ## Data Input
 I created a dataset of song's lyrics based on my -kinda famous- Spotify playlist. A little bit of context: peruvian cumbia and chicha were super popular around the 70s in Lima as a product of the huge rural-urban migration. It came back to life in the 2010s, becoming popular among young generations (like me!).
-I compiled the biggest hits in this playlist. 
+
+I compiled the biggest hits in this playlist/dataset. 
 
 ![Chacalon](Chacalon.jpg)
 
@@ -35,7 +36,7 @@ Old song seems to have song with the most number of words compared to the new on
 
 ![WordCount](WordCount.png)
 
-Overall, the most common words used in the songs are "everything, want, life, alone, when, love, always, people, heart, never, sky, sweetheart". I took several hours constanly listening to these songs and I'm not surprised by this results. The overall feeling transmited into this lyrics reflect the migrant sentiment: hope and love. Most the songs are stories about leaving your hometown, missing your lover, hoping for a better future and adapting to the city culture. 
+Overall, the most common words used in the songs are "everything, want, life, alone, when, love, always, people, heart, never, sky, sweetheart". I took several hours constanly listening to these songs and I'm not surprised by these results. The overall feeling transmited into this lyrics reflected the migrant sentiment: hope and love. Most the songs are stories about leaving your hometown, missing your lover, hoping for a better future and adapting to the city culture. 
 
 
 ![LexicalDiver](LexicalDiversity.png)
