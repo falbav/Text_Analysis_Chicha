@@ -34,22 +34,22 @@ I compiled lyrics from all the songs on my playlist. Why? Well, I have always be
 
 Lyrics expressed the popular sentiment of the time and the chicha gnre reflected quite well the feeling of the migrant. One popular amthen of these times,  a song called "Provinciano" (meaning something like "the one who came from the rural area") by Chacalon, portraits the experience of thousands of people...
 
-> Soy muchacho provinciano, (I am a provincial boy)
-> me levanto muy temprano, (I wake up very early)
-> para ir con mis hermanos, (to go with my brothers)
-> ayayayay a trabajar, (ayayayay to work)
-> no tengo padre ni madre,  (I have no father or mother)
-> ni perro que a mi me ladre, (No dog that barks at me)
-> solo tengo la esperanza, (I only have hope)
-> ayayayay de progresar, (ayayayay to progress)
-> busco una nueva vida, (I'm looking for a new life)
-> en esta ciudad ah ah, (in this city ah ah)
-> donde todo es dinero y, (where everything is money and)
-> hay maldad ah ahm, (there is evil ah ah) 
-> con la ayuda de dios, (with God's help)
-> se que triunfare eh eh, (I know that I will triumph huh huh)
-> y junto a ti mi amor,  (and with you my love)
-> feliz sere, (happy i will be)
+> Soy muchacho provinciano, (I am a provincial boy) <br/>
+> me levanto muy temprano, (I wake up very early) <br/> 
+> para ir con mis hermanos, (to go with my brothers) <br/>
+> ayayayay a trabajar, (ayayayay to work) <br/>
+> no tengo padre ni madre,  (I have no father or mother) <br/>
+> ni perro que a mi me ladre, (No dog that barks at me) <br/>
+> solo tengo la esperanza, (I only have hope) <br/>
+> ayayayay de progresar, (ayayayay to progress) <br/>
+> busco una nueva vida, (I'm looking for a new life) <br/>
+> en esta ciudad ah ah, (in this city ah ah) <br/>
+> donde todo es dinero y, (where everything is money and) <br/>
+> hay maldad ah ahm, (there is evil ah ah)  <br/>
+> con la ayuda de dios, (with God's help) <br/>
+> se que triunfare eh eh, (I know that I will triumph huh huh) <br/>
+> y junto a ti mi amor,  (and with you my love) <br/>
+> feliz sere, (happy i will be) <br/>
 
 I'm going to make this analysis comparing the classics (the 70's era) versus the modern renaissance (the 2010s era). 
 Old song seem to have the most number of words compared to the new era songs. This might be because a lot of modern songs are covers and they only used extracts of old songs.
